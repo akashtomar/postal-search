@@ -1,8 +1,8 @@
-#Postal Search
+# Postal Search
 Implementation of text search using textIndex of MongoDB.
 Creating SPA in ReactJS
 
-##Prerequisites
+## Prerequisites
 
 Assuming you have MongoDB and Node.js installed
 Download your CSV file and import into MongoDB using following command(assuming your MongoDB server is alreadly running)
