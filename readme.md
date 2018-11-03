@@ -6,6 +6,8 @@ Creating SPA in ReactJS
 
 Assuming you have MongoDB and Node.js installed
 Download your CSV file and import into MongoDB using following command(assuming your MongoDB server is alreadly running)
+
+## Installation
 ```
 mongoimport -d test -c yourCollectionName --file "path/to/file" --type csv --headerline
 ```
